@@ -10,7 +10,7 @@ I am a Brazilian 🇧🇷:
 - 🧑‍🏫 Degree in Physics Teaching
 - 💻❤️ Technology lover
 
-Some programming languages thar I know and use are:
+Some programming languages that I know and use are:
 
 - <img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript e <img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript
 - <img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
