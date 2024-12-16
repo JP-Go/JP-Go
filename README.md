@@ -32,7 +32,7 @@ Some technologies that I use often:
 
 
 ### Github Stats
-[![Meus Stats no GitHub](https://github-readme-stats.vercel.app/api?username=JP-Go&show_icons=true&theme=github_dark&include_all_commits=false&custom_title=Meus%20Status%20no%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Meus Stats no GitHub](https://github-readme-stats.vercel.app/api?username=JP-Go&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Go&theme=github_dark&langs_count=6&custom_title=Top%206%20Linguages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Go&theme=github_dark&langs_count=6&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
